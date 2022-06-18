@@ -144,7 +144,7 @@ if __name__ == "main":
 else:
     pass
 
-##################################### CODED BY ANSH DADWAL ##################################⏎  
+##################################### CODED BY MICHAEL AND SHADOW ##################################⏎  
 
 for i in ['colorama','requests','tload']:
     if checkImport(i) is False:
